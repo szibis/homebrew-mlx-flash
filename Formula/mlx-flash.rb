@@ -1,8 +1,8 @@
 class MlxFlash < Formula
   desc "Run AI models too large for your Mac's memory — MoE expert caching for Apple Silicon"
   homepage "https://github.com/szibis/MLX-Flash"
-  url "https://github.com/szibis/mlx-flash/archive/refs/tags/v0.8.0.tar.gz"
-  sha256 "31fa3ae96c6e3ccddb55eae49c84a89611e7caf6e4b3ef8d07d340ecc8e85122"
+  url "https://github.com/szibis/mlx-flash/archive/refs/tags/v0.9.0.tar.gz"
+  sha256 "d5988d269f25912566cd3e49c6aa8d7cdc189c4ce1b0f1fe252f5148b33501bd"
   license "MIT"
 
   depends_on :macos
